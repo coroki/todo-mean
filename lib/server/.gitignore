@@ -1,0 +1,17 @@
+# compiled output
+/build
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+.settings/
+.vscode/*
+
+# misc
+npm-debug.log
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
